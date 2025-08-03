@@ -80,13 +80,14 @@
 
 7. Recomendaciones
 
- - En el caso de hacer modificaciones, documentar lo que se ha hecho, para futuras circunstancias.
- - Si se agrega alguna nueva función, mantener la estructura en módulos o librerías. 
- - Implementar correctamente validaciones, para evitar errores del programa. 
+- Si accedes por primera vez al repositorio, tomate el tiempo para entender la estructura del código y del proyecto.
+- Si estas corrigiendo un error producido, enfócate en ese apartado sin alterar el resto.
+- Antes de guardar cualquier cambio, asegurate de realizar algunas pruebas de funcionamiento.
 
 8. Desarrolladores
 El programa fue diseñado y desarrollado por Cristopher Chamorro, Erick Puglla y David Pesántez en el lenguaje C, 
 con el objetivo de crear un programa simple de matriculación de vehículos, que cumpla con las respetivas
 validaciones y necesidades del usuario. 
+
 
 
