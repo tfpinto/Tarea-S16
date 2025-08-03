@@ -1,5 +1,5 @@
 
-Manual Técnico para el Programa de Matriculación Vehicular desarrollado en C
+##Manual dirigido a los desarrolladores del código en C
 
 1. Propósito del programa
 
@@ -88,4 +88,5 @@ Manual Técnico para el Programa de Matriculación Vehicular desarrollado en C
 El programa fue diseñado y desarrollado por Cristopher Chamorro, Erick Puglla y David Pesántez en el lenguaje C, 
 con el objetivo de crear un programa simple de matriculación de vehículos, que cumpla con las respetivas
 validaciones y necesidades del usuario. 
+
 
